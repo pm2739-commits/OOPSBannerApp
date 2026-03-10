@@ -1,2 +1,15 @@
+# Ignore compiled Java classes
 *.class
+
+# Ignore text files
+*.txt
+
+# Ignore backup files
+*~
+
+# Ignore IDE/project settings
+.idea/
+*.iml
+.vscode/*
+
 
